@@ -1,6 +1,6 @@
 # toy-byteformer
 
-A toy implementation of byteformer 
+A toy implementation for Byteformer 
 
 ## Motivation:
 
