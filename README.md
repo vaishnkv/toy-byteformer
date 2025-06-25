@@ -4,12 +4,13 @@ A toy implementation of byteformer
 
 ## Motivation:
 
-I came across a blog post from crowdstrike on they are leveraging do malicious file detection. 
+I came across a blog post from crowdstrike on they are leveraging do malicious file detection. Byte Back: Next-Generation Malware Classification Using Binary Transformers (https://www.crowdstrike.com/en-us/blog/byte-back-next-gen-malware-classification/?utm_source=chatgpt.com)
 
 
 
 ## Results:
 
+![W B Chart 25_06_2025, 15_44_14](https://github.com/user-attachments/assets/02774d8f-4cec-4d0d-a53f-ea761f997817)
 
 ## Observation:
 
